@@ -8,7 +8,7 @@ import axios from 'axios';
 import $ from "jquery";
 require('@/store/modules/subscriber')
 
-axios.defaults.baseURL='http://localhost/inventory/api/public/api/v1/'
+axios.defaults.baseURL='http://localhost/ims-laravel-vue/api/public/api/v1/'
 
 Vue.use(Toasted, {
   duration: 2000

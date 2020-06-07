@@ -1,4 +1,4 @@
-let path='http://localhost/inventory/api/public/';
+let path='http://localhost/ims-laravel-vue/api/public/';
 export default{
     path
 }
